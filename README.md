@@ -1,5 +1,5 @@
 # The Event
-PyLadies LA is having a three-part workshop series in 2019 May:
+PyLadies LA is having a three-part workshop series in May, 2019:
 
 - [Python for Data Part 1 || Cleaning Data with Basic Pandas](https://www.meetup.com/Pyladies-LA/events/zswgwqyzhbmb/), on May 9, 2019
 - [Python for Data Part 2 || Data Mining with Advanced Pandas](https://www.meetup.com/Pyladies-LA/events/zswgwqyzhbvb/), on May 16, 2019 
