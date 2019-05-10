@@ -25,6 +25,8 @@ As a point of reference, if the idea of independently looking through [this](htt
 ABOUT THE COURSE:
 This course is targeted toward Python users with around 20+ hours of ACTIVE coding experience. While we will cover a basic introduction to Pandas and plotting in Python, you should feel comfortable reading and writing pure Python.
 
+#### [Click HERE for the link to Lessons & Labs](https://github.com/dstrodtman/pandas_intro_pyladies)
+
 #### About the Speaker
 [Douglas Strodtman](https://www.linkedin.com/in/dstrodtman/) is a professional data enthusiast and adult educator. He has just started a role as a Technical Instructor at Databricks, and previously worked at General Assembly and the University of Washington. His holistic view of the data landscape is that creativity and critical thinking are the most vital skills for deriving actionable business insights.
 
